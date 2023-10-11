@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there! 👋
 
-Welcome to my GitHub profile!<br> I'm Sanjay Bhandari a passionate Java developer starting as a fresher.<br>
+Welcome to my GitHub profile!<br> I'm Sanjay Bhandari a passionate React & Java developer starting as a fresher.<br>
 I love working on challenging projects and collaborating with fellow developers.
 
 ## 🔭 Current Focus
