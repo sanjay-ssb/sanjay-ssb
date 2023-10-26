@@ -78,7 +78,7 @@ You can reach me via email at  [Email](mailto:sanjay.bhandari1909@gmail.com) or 
 Sanjay Bhandari<br>
 Full-Stack Developer | Proficient in React and Spring Boot<br>
 <br>
-[Contact No] +91 9557929934<br>
+[Contact & Whatsapp No] +91 9557929934<br>
 [Email]: sanjay.bhandari1909@gmail<br>
 [LinkedIn]: https://www.linkedin.com/in/sanjay-bhandari-ssb<br>
 [Github]: (https://www.github.com/sanjay-ssb)<br>
