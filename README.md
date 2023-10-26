@@ -73,16 +73,15 @@ Feel free to explore my repositories to find more projects and contributions!
 I'm always open to collaborating on interesting Java projects. If you're working on something cool and need an extra pair of hands, feel free to reach out.
 
 ## 📫 Let's Connect
-You can reach me via email at  [Email](mailto:sanjay.bhandari1909@gmail.com) or connect with me on LinkedIn at [LinkedIn](https://www.linkedin.com/in/sanjay-bhandari-ssb/).<br> I'm open to connecting with fellow developers, discussing opportunities, or simply having a chat!
+You can reach me via email at  [Email](mailto:sanjay.bhandari1909@gmail.com) or connect with me on LinkedIn at [LinkedIn](https://www.linkedin.com/in/sanjay-bhandari-ssb/).<br> I'm open to connecting with fellow developers, discussing opportunities, or simply having a chat!<br><br><br>
 
-Sanjay Bhandari
-Full-Stack Developer | Proficient in React and Spring Boot
-Dehradun, Uttarakhand, India
-
-+91 9557929934
-Email: sanjay.bhandari1909@gmail
-LinkedIn: https://www.linkedin.com/in/sanjay-bhandari-ssb
-Github: https://github.com/sanjay-ssb
-Portfolio: https://myfirstportfolio-github-io-852h-ggp9ch1r5-sanjay0101.vercel.app/
+Sanjay Bhandari<br>
+Full-Stack Developer | Proficient in React and Spring Boot<br>
+<br>
+[Contact No] +91 9557929934<br>
+[Email]: sanjay.bhandari1909@gmail<br>
+[LinkedIn]: https://www.linkedin.com/in/sanjay-bhandari-ssb<br>
+[Github]: (https://www.github.com/sanjay-ssb)<br>
+[Portfolio]: https://www.myfirstportfolio-github-io-852h-ggp9ch1r5-sanjay0101.vercel.app/<br>
 
 Thank you for visiting my profile. Happy coding! 😄
