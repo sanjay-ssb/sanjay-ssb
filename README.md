@@ -38,38 +38,35 @@ Collaborated with other developers, designers to improve skills and stay up-to-d
 
 
 ## 🌟 Projects
-Here are some notable projects I've worked on:
-Personal Portfolio(React)<br>
+Here are some notable projects I've worked on:<br><br>
+<b>Personal Portfolio</b>(React)<br>
 - Link: https://myfirstportfolio-github-io-852h-ggp9ch1r5-sanjay0101.vercel.app/<br>
 - Built a protfolio with React encapsulating diverse range of projects that highlight my proficiency in various aspects of software development and serves as a digital resume and portfolio for individuals seeking to showcase their skills, projects, and experiences in a visually engaging and interactive manner.<br>
 - GitHub: github.com/sanjay-ssb/myfirstportfolio.github.io
+<br><br>
 
-
-
-Employee Management App(React & SpringBoot)<br>
+<b>Employee Management App</b>(React & SpringBoot)<br>
 - Employee Manager is a full-stack CRUD Web application using React as frontend and spring boot as backend which streamlines the process of managing employee information, tracking work assignments, and generating performance reports.<br>
 - It uses MySql as database to create and maintain detailed profiles for each employee which can store personal information, contact details, job history, and other relevant data.<br>
 - GitHub: https://github.com/sanjay-ssb/EmployeeManager
-
-
-
-Smart Farming Web App (React)<br>
+<br><br>
+<b>Smart Farming Web App </b>(React)<br>
 - Fully responsive and dynamic website to teach farmersthe basics of smart farming and its various techniques while aiming to build a healthy community.<br>
 - Technolgy Used: React.JS, Bootstrap, Firebase.<br>
 - GitHub: https://github.com/sanjay-ssb/Smart_farming
+<br><br>
 
-
-Smart Contact Manager (Spring Boot)<br>
+<b>Smart Contact Manager</b> (Spring Boot)<br>
 - A Java web application for a businesses with features for organizing, storing, and managing their contacts in an efficient manner.<br>
 - It uses MySql Database for database mangement,Bootstrap and Thymeleaf for creating user interface and SpringBoot framework for rapid development.<br>
 - GitHub: https://github.com/sanjay-ssb/smartcontactmanager
+<br><br>
 
-
-Inventory Managment System(Java Swing)<br>
+<b>Inventory Managment System</b>(Java Swing)<br>
 - A GUI represents the number of orders made by a particular customer, total amount of the orders by the given customer and facilitates printing of the receipt.<br>
 - Implemented a data-driven application using JDBC for retrieving and updating database which uses MySQL database to manage the inventory: managing products, customers,Orders,products categories.<br>
 - GitHub: 
-
+<br>
 Feel free to explore my repositories to find more projects and contributions!
 
 ## 👯 Collaboration
